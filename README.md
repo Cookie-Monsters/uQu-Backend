@@ -4,6 +4,8 @@
 
 ![title image](http://fs2.directupload.net/images/150614/wk8fp5ji.png "uQu on the Apple Watch")
 
+This app was created in the Hack and Wear 2015 hackathon. https://www.hackerleague.org/hackathons/hack-and-wear/hacks/uqu
+
 **iOS app:** https://github.com/buffstop/Qute
 
 uQu is a platform where you can ask questions based on your location and get answers back instantly from the crowd.
