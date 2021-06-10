@@ -1,4 +1,4 @@
-Django==1.11.19
+Django==2.2.24
 Pillow==5.2.0
 argparse==1.2.1
 djangorestframework>=3.9.1
